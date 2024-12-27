@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header-text {
+  color: #00ffff;
+  font-size: 70.7;
+  font-family: "Inter", serif;
+}
+
+.social-icons i {
+  font-size: 50 rem;
+}
