@@ -12,4 +12,22 @@
 
 .social-icons i {
   font-size: 50 rem;
+  color: #00ffff;
+}
+
+.card-title {
+  color: #00ffff;
+}
+
+.btn {
+  background-color: #00ffff;
+}
+
+.form-box {
+  box-shadow: 5px 5px 5px rgb(123, 139, 145);
+}
+
+.dark-input::placeholder {
+  color: #aaa;
+  opacity: 1;
 }
